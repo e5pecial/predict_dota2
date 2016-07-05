@@ -5,9 +5,12 @@ The final task in the course "Introduction to machine learning" by HSE &amp; Yan
 
 Result on Kaggle: **0.75485** (Not so cool)
 
+=====
 
 *Comments by peer reviewers*
 ![Comments](https://github.com/e5pecial/predict_dota2/raw/master/comments.PNG)
 
+
+
 *Course result*
-![Result](https://github.com/e5pecial/predict_dota2/raw/master/result.png)
+![Result](https://github.com/e5pecial/predict_dota2/raw/master/result.PNG)
