@@ -5,4 +5,4 @@ The final task in the course "Introduction to machine learning" by HSE &amp; Yan
 
 Result on Kaggle: **0.75485** (Not so cool)
 
-![Comments](https://github.com/e5pecial/predict_dota2/raw/master/comments.png)
+![Comments](https://github.com/e5pecial/predict_dota2/raw/master/comments.PNG)
